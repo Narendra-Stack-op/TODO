@@ -79,7 +79,7 @@ form button{
 }
 .completetodo{
   text-decoration: line-through;
-  color: red;
-  background-color: yellow !important;
+  color: #fff;
+  background-color: #a7c957 !important;
 
 }
